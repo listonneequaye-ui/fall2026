@@ -8,5 +8,5 @@ document.write('<img src="program.jpg">');
 
 function showInformation() {
     document.getElementById("message").innerHTML =
-        "Ask me a question. I'll try to answer it in the comment.";
+        "<strong>Ask me a question. I'll try to answer it in the comment.</strong>";
 }
