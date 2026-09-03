@@ -1,4 +1,4 @@
-console.log("Hello, World!");
+console.log("Ask me a question. I'll try to answer it in the comment.");
 
 document.write("Ask me a question. I'll try to answer it in the <strong>comment.</strong><br>");
 
